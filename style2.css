@@ -1,0 +1,67 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+nav{
+    width:100%;
+    background: 100%;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+}
+ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+
+}
+li{
+    float: left;
+}
+a{
+    padding: 25px;
+    width: 100px;
+    display: block;
+    text-decoration: none;
+    color: #aaa;
+    text-transform: lowercase;
+    font-weight: 500;
+}
+Part1{
+    height: 700px;
+    background: green;
+    display: inline-block;
+    width: 100%;
+}
+
+Part2{
+    height: 700px;
+    background: pink;
+    display: inline-block;
+    width: 100%;
+}
+
+Part3{
+    height: 700px;
+    background: darkblue;
+    display: inline-block;
+    width: 100%;
+}
+
+Part4{
+    height: 700px;
+    background: skyblue;
+    display: inline-block;
+    width: 100%;
+}
+
+h1{
+    margin: 100px;
+    text-align: left;
+    padding: 0;
+    
+}
